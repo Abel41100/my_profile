@@ -1,0 +1,12 @@
+h1 {color: red;
+ 	background-color: blue;
+ } 
+h2 {
+	color: red;
+	background-color: blue;
+}
+ body {background-image: url(https://acegif.com/wp-content/gif/beer-10.gif);}
+
+button{
+	transition: 1s;
+}
